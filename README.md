@@ -7,6 +7,7 @@ The numbers below keep track of how many copies were printed of each version of 
 * 1.0 - ~40 copies (originally distributed as brochure, later posted as poster, distribution complete, mostly taken down)  
 * 2.0 - 100 copies  (distribution complete)
 * 2.0.1 - 100 copies (currently being distributed, about 40% complete)  
+* 2.0.2 - 200 copies on 2020-12-09 (currently being distributed, 0% complete)  
 
 ## Known posting locations
 These are the locations I remember posting the posters. They get removed pretty quickly, and I need to repost them several times a week. If you posted them too, feel free to open a pull request and have the location added to the list. As a courtesy, please don't remove them.   
