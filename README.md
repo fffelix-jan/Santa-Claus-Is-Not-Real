@@ -3,7 +3,7 @@ A poster that I distribute (and you should too) to spread the undoubtedly true f
 (Note: It is legal to post community posters on utility poles and kiosks in Toronto, with certain conditions. See the City of Toronto bylaws for more details.)  
 
 ## The files
-The posters were made in Microsoft Word 2016 and LibreOffice 6.4. The Word documents also require that the Liberation fonts be installed on your computer. (I really like LibreOffice's default fonts for some reason. They look modern and like the '90s at the same time. They were also exported as PDF files, so you can just print them out directly without worrying about the formatting being incorrect.
+The posters were made in Microsoft Word 2016 and LibreOffice 6.4. The Word documents also require that the Liberation fonts be installed on your computer. (I really like LibreOffice's default fonts for some reason. They look modern and like the '90s at the same time.) They were also exported as PDF files, so you can just print them out directly without worrying about the formatting being incorrect.
 
 ## Print runs
 The numbers below keep track of how many copies were printed of each version of the poster. The posters get taken down quickly, so they usually don't last long.  
